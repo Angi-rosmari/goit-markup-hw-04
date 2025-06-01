@@ -172,6 +172,7 @@ img {
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 1440px;
+  margin: 0;
 }
 
 /* .hero-wrapper {
@@ -258,18 +259,6 @@ img {
   border-radius: 4px;
   border: 1px solid #8e8f99;
   margin-bottom: 8px;
-}
-
-.icon-features {
-  padding: 24px 100px;
-  width: 64px;
-  height: 64px;
-  border: 1px solid #8e8f99;
-  border-radius: 4px;
-  width: 264px;
-  height: 112px;
-  fill: #2e2f42;
-  background-color: #f4f4fd;
 }
 
 .features-item {
@@ -473,7 +462,6 @@ img {
 .portfolio-cover-text {
   position: absolute;
   top: 0;
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
