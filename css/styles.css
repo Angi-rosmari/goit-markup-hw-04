@@ -172,7 +172,7 @@ img {
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 1440px;
-  margin: 0;
+  margin: 0 auto;
 }
 
 /* .hero-wrapper {
@@ -186,8 +186,8 @@ img {
   text-align: center;
   color: #fff;
   max-width: 496px;
-  margin: auto;
   display: block;
+  margin: auto;
   margin-bottom: 48px;
 }
 
